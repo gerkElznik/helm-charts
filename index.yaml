@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  macgruber:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-07T02:38:08.318515963Z"
+    description: A Helm chart for a MacGruber punch!
+    digest: b06b0f567a794bb4b0985db4a8fc4c2e175f605f39e99c14b7aa75b00acbd6da
+    name: macgruber
+    type: application
+    urls:
+    - https://github.com/gerkElznik/helm-charts/releases/download/macgruber-0.1.0/macgruber-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-07T02:38:08.318551665Z"
