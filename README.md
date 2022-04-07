@@ -19,7 +19,7 @@ You can then run `helm search repo gerkelznik` to see the charts.
 
 ## Contributing
 
-The source code of all Gerk Elznik personal Helm charts can be found on GitHub: https://github.com/gerkelznik/helm-charts
+The source code of all Gerk Elznik personal Helm charts can be found on GitHub: https://github.com/gerkelznik/helm-charts/charts
 
 ## License
 
