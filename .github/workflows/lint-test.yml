@@ -40,3 +40,6 @@ jobs:
 
       - name: Run chart-testing (install)
         run: ct install --config .github/chart-testing-config.yml
+      
+      - name: Run chart-testing (upgrade)
+        run: ct install --upgrade --config .github/chart-testing-config.yml
