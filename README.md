@@ -1,6 +1,6 @@
 # Gerk Elznik Personal Helm Charts
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ![Release Charts](https://github.com/gerkelznik/helm-charts/workflows/Release%20Charts/badge.svg?branch=main) [![Releases downloads](https://img.shields.io/github/downloads/gerkelznik/helm-charts/total.svg)](https://github.com/gerkelznik/helm-charts/releases)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ![CI Quality Gates](https://github.com/gerkelznik/helm-charts/workflows/Lint%20and%20Test%20Charts/badge.svg?branch=main) ![Release Charts](https://github.com/gerkelznik/helm-charts/workflows/Release%20Charts/badge.svg?branch=main) [![Chart Downloads](https://img.shields.io/github/downloads/gerkelznik/helm-charts/total.svg)](https://github.com/gerkelznik/helm-charts/releases)
 
 ## Usage
 
@@ -26,6 +26,7 @@ The source code of all Gerk Elznik personal Helm charts can be found on GitHub: 
 <!-- Keep full URL links to repo files because this README syncs from main to gh-pages.  -->
 [Apache 2.0 License](https://github.com/gerkelznik/helm-charts/blob/main/LICENSE).
 
-## Helm charts build status
+## Build Your Own
+https://medium.com/@gerkElznik/provision-a-free-personal-helm-chart-repo-using-github-583b668d9ba4
 
-![Release Charts](https://github.com/gerkelznik/helm-charts/workflows/Release%20Charts/badge.svg?branch=main)
+> ☝️ Blog explaining how this repo was constructed
