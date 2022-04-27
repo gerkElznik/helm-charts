@@ -39,7 +39,7 @@ jobs:
         with:
           version: v0.12.0
           node_image: kindest/node:v1.23.5
-          kubectl_version: v1.23.6
+          # kubectl_version: v1.23.6
         if: steps.list-changed.outputs.changed == 'true'
 
       - name: Run chart-testing (install)
