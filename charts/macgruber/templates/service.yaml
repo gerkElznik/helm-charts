@@ -4,7 +4,6 @@ metadata:
   name: {{ include "macgruber.fullname" . }}
   labels:
     {{- include "macgruber.labels" . | nindent 4 }}
-    foo: bar
 spec:
   type: {{ .Values.service.type }}
   ports:
